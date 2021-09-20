@@ -1,0 +1,6 @@
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-2-ukol\cv-2-ukol\bin\Debug\cv-2-ukol.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-2-ukol\cv-2-ukol\bin\Debug\cv-2-ukol.exe
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-2-ukol\cv-2-ukol\bin\Debug\cv-2-ukol.pdb
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-2-ukol\cv-2-ukol\obj\Debug\cv-2-ukol.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-2-ukol\cv-2-ukol\obj\Debug\cv-2-ukol.exe
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-2-ukol\cv-2-ukol\obj\Debug\cv-2-ukol.pdb

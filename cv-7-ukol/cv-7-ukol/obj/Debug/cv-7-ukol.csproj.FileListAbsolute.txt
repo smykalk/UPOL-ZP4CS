@@ -1,0 +1,11 @@
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\bin\Debug\cv-7-ukol.exe.config
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\bin\Debug\cv-7-ukol.exe
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\bin\Debug\cv-7-ukol.pdb
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\obj\Debug\cv-7-ukol.csprojAssemblyReference.cache
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\obj\Debug\cv-7-ukol.exe
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\obj\Debug\cv-7-ukol.pdb
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\bin\Debug\EntityFramework.dll
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\bin\Debug\EntityFramework.xml
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\panda\ownCloud\ŠKOLA\LS2\ZP4CS\cv-7-ukol\cv-7-ukol\obj\Debug\cv-7-ukol.csproj.CopyComplete

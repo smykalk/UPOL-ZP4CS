@@ -1,0 +1,13 @@
+C:/Users/panda/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/bin/Debug/cv-3-ukol.exe.config
+C:/Users/panda/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/bin/Debug/cv-3-ukol.exe
+C:/Users/panda/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/bin/Debug/cv-3-ukol.pdb
+C:/Users/panda/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/obj/Debug/cv-3-ukol.csprojAssemblyReference.cache
+C:/Users/panda/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/obj/Debug/cv-3-ukol.exe
+C:/Users/panda/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/obj/Debug/cv-3-ukol.pdb
+/home/kuba/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/bin/Debug/cv-3-ukol.exe.config
+/home/kuba/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/bin/Debug/cv-3-ukol.exe
+/home/kuba/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/bin/Debug/cv-3-ukol.pdb
+/home/kuba/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/obj/Debug/cv-3-ukol.csprojAssemblyReference.cache
+/home/kuba/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/obj/Debug/cv-3-ukol.csproj.CoreCompileInputs.cache
+/home/kuba/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/obj/Debug/cv-3-ukol.exe
+/home/kuba/ownCloud/ŠKOLA/LS2/ZP4CS/cv-3-ukol/cv-3-ukol/obj/Debug/cv-3-ukol.pdb

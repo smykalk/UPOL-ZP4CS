@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv-8-frontend", "cv-8-frontend\cv-8-frontend.csproj", "{32B7223C-8EF8-45FD-A906-2EE58B27C458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32B7223C-8EF8-45FD-A906-2EE58B27C458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B7223C-8EF8-45FD-A906-2EE58B27C458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B7223C-8EF8-45FD-A906-2EE58B27C458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B7223C-8EF8-45FD-A906-2EE58B27C458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82FB5EB3-D3C3-46B9-AE81-FAC46D0C7C21}
+	EndGlobalSection
+EndGlobal
